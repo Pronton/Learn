@@ -16,6 +16,9 @@ public class Hehe extends Application{
 
 	public static void main(String[] args)
 	{
+		/**
+		 * DO it.
+		 */
 		launch(args);
 	}
 
